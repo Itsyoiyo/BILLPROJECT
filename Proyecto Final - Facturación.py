@@ -45,7 +45,6 @@ while userAns != 0:
         print("A continuación, la lista de productos son los siguinetes: \n----------------\n")
         
         
-        
     else:
          print ("Ha salido del sistema con éxito. Gracias por su compra")
     userAns  = int(input("Seleccione una opción: \n 1. Ingrese nueva compra. \n 2. Salir \n"))
