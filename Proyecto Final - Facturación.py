@@ -19,7 +19,7 @@ print("Bienvenido al sistema de facturación supermercado Los Pollitos\n")
 
 userAns  = int(input("Seleccione una opción: \n 1) Ingrese nueva compra. \n 2) Salir. \n Opción: "))
 
-while userAns != 0:
+while userAns != 2:
 
     if userAns == 1:
         print ("Ingresando una nueva compra\n")
